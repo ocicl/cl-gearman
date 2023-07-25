@@ -1,0 +1,10 @@
+* cl-gearman
+
+Common Lisp Library for the Gearman distributed job system.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/taksatou/cl-gearman.git   |
+| commit  | daf1ca9  |
+| systems | cl-gearman |
+|---------+-------------------------------------------|
+
